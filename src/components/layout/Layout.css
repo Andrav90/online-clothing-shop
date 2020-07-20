@@ -1,0 +1,59 @@
+.layout {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.layout > div{
+    flex-grow: 1;
+}
+
+.hrs {
+    border: 0;
+    clear: both;
+    display: block;
+    width: 96%;               
+    background: #43C6AC;
+    background: -webkit-linear-gradient(to left, #F8FFAE, #43C6AC);
+    background: linear-gradient(to left, #F8FFAE, #43C6AC);
+    height: 2px;
+}
+
+.go-top-btn{
+    opacity: 60%;
+    position: fixed;
+    z-index: 1;
+    width: 50px;
+    height: 50px;
+    background: #43C6AC;
+    bottom: 40px;
+    right: 50px;
+    line-height: 50px;
+    color: white;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+}
+  
+.go-top-btn:hover{
+    opacity: 100%;
+}
+  
+.go-top-btn i {
+    color: white;
+    width: 48px;
+    background-color: transparent;
+    text-align: center;
+}
+
+@media (max-width: 768px) {
+    .go-top-btn{
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+    }
+
+    .go-top-btn i {
+        width: 28px;
+    }
+}

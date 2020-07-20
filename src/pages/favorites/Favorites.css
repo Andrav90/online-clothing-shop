@@ -1,0 +1,15 @@
+.favorites-product-image {
+    width: 170px;
+    height: 200px;
+}
+
+@media (max-width: 768px) {
+    .favorites-headers {
+        font-size: 18px;
+    }
+
+    .favorites-product-image {
+        width: 90px;
+        height: 110px;
+    }
+}

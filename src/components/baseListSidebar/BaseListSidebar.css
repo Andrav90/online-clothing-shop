@@ -1,0 +1,10 @@
+.base-list-sidebar {
+    margin-left: 2%;
+}
+
+@media (max-width: 768px) {
+    .base-list-sidebar {
+        margin-left: 1%;
+        min-width: 30%;
+    }
+}

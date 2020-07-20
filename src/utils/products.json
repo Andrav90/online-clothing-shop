@@ -1,0 +1,288 @@
+{
+    "dresses": {
+        "items": [
+            {
+                "id": 1,
+                "name": "Fely Dress",
+                "price": 169,
+                "currency": " LEI",
+                "image": "https://imgur.com/dWuSJmj.jpg",
+                "size": "S-L",
+                "colour": "Red",
+                "material": "Cotton",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris venenatis nisi interdum egestas faucibus. Curabitur consectetur tortor non lorem elementum efficitur. Nam eu massa justo. Sed nisi metus, tempor vitae imperdiet vitae, molestie finibus nunc. Curabitur sed pulvinar eros. Quisque gravida aliquet orci et venenatis."
+            },
+            {
+                "id": 2,
+                "name": "Sanda Dress",
+                "price": 119,
+                "currency": " LEI",
+                "image": "https://imgur.com/5qxKLb6.jpg",
+                "size": "S-M",
+                "colour": "Pink",
+                "material": "Cotton, polyester",
+                "description": "Quisque gravida aliquet orci et venenatis. Phasellus sit amet scelerisque erat, convallis maximus ex. Nullam vel sollicitudin dolor. In a ex pretium elit pretium bibendum. "
+            },
+            {
+                "id": 3,
+                "name": "Alexa Dress",
+                "price": 149,
+                "currency": " LEI",
+                "image": "https://imgur.com/8yo0msp.jpg",
+                "size": "XS-M",
+                "colour": "Blue",
+                "material": "Cotton",
+                "description": " Suspendisse potenti. Suspendisse blandit velit a nisl luctus cursus quis quis sem. Ut luctus tellus sit amet dui aliquam tempus."
+            },
+            {
+                "id": 4,
+                "name": "Aminta Dress",
+                "price": 139,
+                "currency": " LEI",
+                "image": "https://imgur.com/eHXwLFa.jpg",
+                "size": "S-L",
+                "colour": "Black",
+                "material": "Cotton, polyester",
+                "description": "Aliquam non arcu nec ante accumsan hendrerit ut nec nulla. Aenean et odio felis."
+            }
+        ],
+        "image": "https://imgur.com/BGsr982.jpg",
+        "name": "Dresses"
+    },
+    "bikinis": {
+        "items": [
+            {
+                "id": 5,
+                "name": "Sunflower bikini",
+                "price": 95,
+                "currency": " LEI",
+                "image": "https://imgur.com/zNBErqB.jpg",
+                "size": "XS-L",
+                "material": "Polyester, spandex"
+            },
+            {
+                "id": 6,
+                "name": "Criss cross bikini",
+                "price": 105,
+                "currency": " LEI",
+                "image": "https://imgur.com/RC3W1mV.jpg",
+                "size": "XS-L",
+                "material": "Nylon, polyester, spandex"
+            },
+            {
+                "id": 7,
+                "name": "Ditsy bikini",
+                "price": 124,
+                "currency": " LEI",
+                "image": "https://imgur.com/xOJwU5C.jpg",
+                "size": "XS-L",
+                "material": "Polyester, spandex"
+            },
+            {
+                "id": 8,
+                "name": "Floral bikini",
+                "price": 67,
+                "currency": " LEI",
+                "image": "https://imgur.com/EcxXiF2.jpg",
+                "size": "XS-L",
+                "material": "Nylon, polyester, spandex"
+            },
+            {
+                "id": 9,
+                "name": "Floral tie bikini",
+                "price": 123,
+                "currency": " LEI",
+                "image": "https://imgur.com/j5utJoT.jpg",
+                "size": "XS-L",
+                "material": "Nylon, polyester, spandex"
+            }
+        ],
+        "image": "https://imgur.com/65MGmhc.jpg",
+        "name": "Swimsuits"
+    },
+    "sweaters": {
+        "items": [
+            {
+                "id": 10,
+                "name": "Knit sweater",
+                "price": 144,
+                "currency": " LEI",
+                "image": "https://imgur.com/sUY4o28.jpg",
+                "size": "S-L",
+                "colour": "Grey",
+                "material": "Polyamide, polyurethane, viscose",
+                "description": "Suspendisse potenti. Suspendisse blandit velit a nisl luctus cursus quis quis sem. Ut luctus tellus sit amet dui aliquam tempus."
+            },
+            {
+                "id": 11,
+                "name": "Neck lantern sweater",
+                "price": 72,
+                "currency": " LEI",
+                "image": "https://imgur.com/tU0S0On.jpg",
+                "size": "S-L",
+                "colour": "Burgundy",
+                "material": "Acrylic",
+                "description": "Aliquam non arcu nec ante accumsan hendrerit ut nec nulla. Aenean et odio felis."
+            },
+            {
+                "id": 12,
+                "name": "Neck lantern sweater",
+                "price": 72,
+                "currency": " LEI",
+                "image": "https://imgur.com/PrsQ8wY.jpg",
+                "size": "S-L",
+                "colour": "Burgundy",
+                "material": "Acrylic",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris venenatis nisi interdum egestas faucibus. Curabitur consectetur tortor non lorem elementum efficitur."
+            },
+            {
+                "id": 13,
+                "name": "Large sweater",
+                "price": 105,
+                "currency": " LEI",
+                "image": "https://imgur.com/HcP3kB9.jpg",
+                "size": "S-L",
+                "colour": "Green",
+                "material": "Cotton",
+                "description": "Quisque gravida aliquet orci et venenatis. Phasellus sit amet scelerisque erat, convallis maximus ex. Nullam vel sollicitudin dolor. In a ex pretium elit pretium bibendum. "
+            }
+        ],
+        "image": "https://imgur.com/wzdW7bJ.jpg",
+        "name": "Sweaters"
+    },
+    "hats": {
+        "items": [
+            {
+                "id": 14,
+                "name": "Flat top hat",
+                "price": 78,
+                "currency": " LEI",
+                "image": "https://imgur.com/p091APn.jpg",
+                "size": "Universal",
+                "colour": "Beige",
+                "material": "Straw",
+                "description": "Suspendisse potenti. Suspendisse blandit velit a nisl luctus cursus quis quis sem. Ut luctus tellus sit amet dui aliquam tempus."
+            },
+            {
+                "id": 15,
+                "name": "Belted straw hat",
+                "price": 56,
+                "currency": " LEI",
+                "image": "https://imgur.com/F1JNvmU.jpg",
+                "size": "Universal",
+                "colour": "Black",
+                "material": "Straw",
+                "description": "Aliquam non arcu nec ante accumsan hendrerit ut nec nulla. Aenean et odio felis."
+            },
+            {
+                "id": 16,
+                "name": "Laced hat",
+                "price": 60,
+                "currency": " LEI",
+                "image": "https://imgur.com/pmCLsMq.jpg",
+                "size": "Universal",
+                "colour": "Beige",
+                "material": "Straw",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris venenatis nisi interdum egestas faucibus. Curabitur consectetur tortor non lorem elementum efficitur."
+            }
+        ],
+        "image": "https://imgur.com/g9oWLOf.jpg",
+        "name": "Hats"
+    },
+    "pajamas": {
+        "items": [
+            {
+                "id": 17,
+                "name": "Satin jumpsuit",
+                "price": 90,
+                "currency": " LEI",
+                "image": "https://imgur.com/6sdS2ax.jpg",
+                "size": "XS-L",
+                "colour": "Black-Pink",
+                "material": "Satin",
+                "description": "Quisque gravida aliquet orci et venenatis. Phasellus sit amet scelerisque erat, convallis maximus ex. Nullam vel sollicitudin dolor. In a ex pretium elit pretium bibendum."
+            },
+            {
+                "id": 18,
+                "name": "Hearted pajamas",
+                "price": 95,
+                "currency": " LEI",
+                "image": "https://imgur.com/ZpALbt1.jpg",
+                "size": "XS-L",
+                "colour": "Pink-White",
+                "material": "Cotton, polyester",
+                "description": "Suspendisse potenti. Suspendisse blandit velit a nisl luctus cursus quis quis sem. Ut luctus tellus sit amet dui aliquam tempus."
+            },
+            {
+                "id": 19,
+                "name": "2 piece pajamas",
+                "price": 100,
+                "currency": " LEI",
+                "image": "https://imgur.com/1agF4vv.jpg",
+                "size": "XS-L",
+                "colour": "Dusty pink",
+                "material": "Polyester",
+                "description": "Aliquam non arcu nec ante accumsan hendrerit ut nec nulla. Aenean et odio felis."
+            },
+            {
+                "id": 20,
+                "name": "Printed nightgown",
+                "price": 60,
+                "currency": " LEI",
+                "image": "https://imgur.com/c2WycEd.jpg",
+                "size": "XS-L",
+                "colour": "Black",
+                "material": "Cotton",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris venenatis nisi interdum egestas faucibus. Curabitur consectetur tortor non lorem elementum efficitur."
+            }
+        ],
+        "image": "https://imgur.com/o5SdYP8.jpg",
+        "name": "Pajamas"
+    },
+    "shoes": {
+        "items": [
+            {
+                "id": 21,
+                "name": "Sandals",
+                "price": 40,
+                "currency": " LEI",
+                "image": "https://imgur.com/v9DrBGg.jpg",
+                "size": "35-42",
+                "colour": "Black",
+                "material": "Leather imitation"
+            },
+            {
+                "id": 22,
+                "name": "Orthopedic sandals",
+                "price": 60,
+                "currency": " LEI",
+                "image": "https://imgur.com/QOkY113.jpg",
+                "size": "36-42",
+                "colour": "Black-Beige",
+                "material": "Cotton, Leather imitation"
+            },
+            {
+                "id": 23,
+                "name": "Espadrilles",
+                "price": 90,
+                "currency": " LEI",
+                "image": "https://imgur.com/FlnK7Kv.jpg",
+                "size": "36-42",
+                "colour": "Pink-Beige",
+                "material": "Polyester, Leather imitation"
+            },
+            {
+                "id": 24,
+                "name": "Leather sandals",
+                "price": 140,
+                "currency": " LEI",
+                "image": "https://imgur.com/skV11Ot.jpg",
+                "size": "36-42",
+                "colour": "Yellow-Beige",
+                "material": "Leather, Thermoplastic rubber"
+            }
+        ],
+        "image": "https://imgur.com/750csrG.jpg",
+        "name": "Shoes"
+    }
+}

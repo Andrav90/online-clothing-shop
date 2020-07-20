@@ -1,0 +1,21 @@
+.errorContainer {
+    height: 100vh;
+    width: 100vw;
+    background-color: #fffffa;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 10%;
+}
+
+.errorImage {
+    width: 35%;
+    height: 35%;
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+    margin-top: 40px;
+    font-size: 2rem;
+}

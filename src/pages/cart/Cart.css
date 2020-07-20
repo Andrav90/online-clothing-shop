@@ -1,0 +1,15 @@
+.cart-product-image {
+    width: 170px;
+    height: 200px;
+}
+
+@media (max-width: 768px) {
+    .cart-headers {
+        font-size: 18px;
+    }
+    
+    .cart-product-image {
+        width: 80px;
+        height: 100px;
+    }
+}

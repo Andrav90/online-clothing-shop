@@ -1,0 +1,24 @@
+.home-category:hover {
+    transform: scale(1.05);
+}
+
+.home-category-imgs{
+    width: 100%;
+    height: 400px;
+    box-shadow: grey 2px 2px 7px;
+}
+
+@media (max-width: 768px) {
+    .home-category {
+        width: 90%;
+        margin-left: 7%;
+        margin-right: 5%;
+    }
+
+    .home-category-imgs{
+        width: 90%;
+        height: 300px;
+        margin-right: 5%;
+        /* margin-left: 5%; */
+    }
+}

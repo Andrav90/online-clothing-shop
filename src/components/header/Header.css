@@ -1,0 +1,73 @@
+header .womens-fashion-shop, header p {
+    font-size: 22px;
+    margin-top: 15px;
+}
+
+header .logo {
+    width: 100px;
+    height: auto;
+}
+
+header .logout:hover {
+    cursor: pointer;
+}
+
+header .favorites {
+    width: 40px;
+    height: 40px;
+    margin-left: 20px;
+    margin-right: 20px
+}
+
+header .shopping-cart {
+    width: 40px;
+    height: 40px;
+}
+
+header .number-of-products{
+    margin: 0;
+}
+
+header .dark-mode {
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    margin-right: 20px;
+}
+
+@media (max-width: 768px) {
+    header .womens-fashion-shop {
+        display: none;
+    }
+
+    header .logo {
+        width: 50px;
+        margin-left: -20px;
+        margin-bottom: -10px;
+    }
+
+    header .dark-mode {
+        margin-right: 5px;
+    }
+
+    header .favorites, header .shopping-cart, header .dark-mode {
+        width: 30px;
+        height: 30px;
+    }
+
+    header p {
+        font-size: 20px;
+    }
+
+    .hi-user {
+        display: none;
+    }
+
+    header .header-icons {
+        margin-bottom: -10px;
+    }
+
+    header .dark-mode {
+        margin-bottom: -10px;
+    }
+}
