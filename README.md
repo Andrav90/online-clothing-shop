@@ -1,5 +1,3 @@
-# telacad-project2
-
 DEMO
 
 https://womens-fashion-shop.netlify.app/
@@ -14,9 +12,9 @@ Online clothing shop developed for the JavaScript Advanced - React course being 
 
 RUN LOCALLY
 
-1. git clone https://github.com/Andrav90/telacad-project2.git
+1. git clone https://github.com/Andrav90/online-clothing-shop.git
 
-2. cd telacad-project2
+2. cd online-clothing-shop
 
 3. npm install
 
